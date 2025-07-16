@@ -1,0 +1,1 @@
+﻿@font-face{font-family:akira expanded;font-style:normal;font-weight:800;src:local('Akira Expanded'),url('../s/37506/Akira Expanded Demo.woff') format('woff')}
